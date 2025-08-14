@@ -38,8 +38,8 @@ flowchart LR
 ---
 
 ## Example Use Case
-**Industrial Printing Troubleshooting**
-1. User describes a print defect.
+**Industrial Troubleshooting**
+1. User describes a defect.
 2. Agent breaks down the request into *diagnostic*, *historical search*, and *repair* steps.
 3. Retrieves logs, manuals, and prior cases.
 4. Calls device APIs for live status.
@@ -58,5 +58,4 @@ flowchart LR
 ## References
 - [Microsoft: Agentic Retrieval](https://learn.microsoft.com/en-us/azure/search/search-agentic-retrieval-concept)
 - [OpenAI: Tool Use and Agents](https://platform.openai.com/docs/assistants/tools)
-- Engelbart’s *Mother of All Demos* (1968) – Inspiration for multi-modal, integrated workflows.
-- Xerox PARC GUI Revolution – Making complex systems accessible.
+
