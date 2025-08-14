@@ -57,5 +57,5 @@ flowchart LR
 
 ## References
 - [Microsoft: Agentic Retrieval](https://learn.microsoft.com/en-us/azure/search/search-agentic-retrieval-concept)
-- [OpenAI: Tool Use and Agents](https://platform.openai.com/docs/assistants/tools)
+- [OpenAI: Agentic Planning](https://platform.openai.com/docs/guides/reasoning-best-practices#4-multistep-agentic-planning)
 
